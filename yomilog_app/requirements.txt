@@ -8,3 +8,4 @@ ruff==0.1.0
 mypy==1.6.1
 django==4.2.5
 psycopg
+psycopg2
